@@ -53,7 +53,8 @@
 </div>
 
 [![waltcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=waltcoder)](https://github.com/waltcoder)
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thommcoder&layout=compact&theme=shades-of-purple" alt="thommcoder's most languages"/>
+[![waltcoder's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=waltcoder)](https://github.com/waltcoder)
+
 
 <!-- <div>
   <a href="https://www.youtube.com/channel/UCzjGfvHuTl_aY_s5Y1xvx7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
