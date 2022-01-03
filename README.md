@@ -7,8 +7,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-oi@waltcoder.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@waltcoder.com.br)](mailto:oi@waltcoder.com.br)
 
 Enthusiast of the best web & mobile development technologies.
-
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+<a href="https://app.daily.dev/waltcoder"><img src="https://api.daily.dev/devcards/4dccefb1a0ec41af998c3c4e17c85336.png?r=b7d" width="400" alt="Walt Johnsley Cerilus's Dev Card"/></a>
 
