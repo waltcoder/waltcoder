@@ -6,6 +6,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@waltcoder-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/waltcoder/)](https://www.instagram.com/waltcoder/) 
 [![Gmail Badge](https://img.shields.io/badge/-waltcoder.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waltcoder.dev@gmail.com)](mailto:waltcoder.dev@gmail.com) 
 
+## Skills and Experience
+* ⚛ Electron 
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 ## License
 The MIT License (MIT)
