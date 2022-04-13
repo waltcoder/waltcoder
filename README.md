@@ -1,5 +1,5 @@
 # Walt Johnsley C.
-`@waltcoder`
+**`@waltcoder`**
 I'm a full Stack JavaScript developer from Brasil.
 
 ## Skills and Experience
