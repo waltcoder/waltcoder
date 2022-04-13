@@ -1,3 +1,5 @@
+![waltcoder.md.png](/waltcoder.md.png)
+
 # Walt Johnsley C.
 **`@waltcoder`**
 I'm a full Stack JavaScript developer from Brasil.
