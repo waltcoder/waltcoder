@@ -4,7 +4,7 @@ CTO @Rocketseat.
 
 [![Twitter Badge](https://img.shields.io/badge/-@waltcoder-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/waltcoder)](https://twitter.com/waltcoder) 
 [![Linkedin Badge](https://img.shields.io/badge/-Walt%20Johnsley-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waltcoder/)](https://www.linkedin.com/in/waltcoder/) 
-[![Gmail Badge](https://img.shields.io/badge/-return.waltf@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:return.walt@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-return.walt@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:return.walt@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
