@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-return.walt@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:return.walt@gmail.com)](mailto:return.walt@gmail.com)
+
 <!--
 **waltcoder/waltcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
